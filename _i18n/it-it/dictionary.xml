@@ -704,9 +704,6 @@ Coppie HA: 18 in un nodo ^1^</block>
   <block id="5313a9ac102424f63dd4d76f5280130e" category="sidebar">Limitazioni in AWS</block>
   <block id="1fff298355326f8c77bd77059a41c1a2" category="sidebar">Limitazioni in Azure</block>
   <block id="9a3a0c4b2afbb088e029484d4b34ba8b" category="sidebar">Limitazioni di Google Cloud</block>
-  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Tutta la documentazione BlueXP</block>
-  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
-  <block id="dea335c9c6f638eb584011e253ad6ca1" category="sidebar">Cloud ONTAP</block>
   <block id="fd164e9cb2bc1ac5405cabfe451663f7" category="cell">2 PIB (richiede più licenze)</block>
   <block id="2dbd9a217bce4c7ba4ef467f57d6875c" category="paragraph">Puoi acquistare più licenze basate su nodi per un sistema Cloud Volumes ONTAP BYOL a nodo singolo o coppia ha, per allocare più di 368 TiB di capacità, fino al limite massimo di capacità di sistema testato e supportato di 2 PIB. Tenere presente che i limiti dei dischi possono impedire di raggiungere il limite di capacità utilizzando solo i dischi. È possibile superare il limite di dischi di<block ref="aea0958203307daa433f894622f3e640" category="inline-link-rx"></block>.<block ref="ca37ce4dde5616ef242d545490c7e6ee" category="inline-link-rx"></block>. Sebbene Cloud Volumes ONTAP supporti fino alla capacità massima testata e supportata di sistema di 2 PIB, il superamento del limite di 2 PIB comporta una configurazione di sistema non supportata.</block>
   <block id="de9d6749570efc87e63811b5947fc250" category="paragraph">Il cloud segreto e le regioni del cloud top secret AWS supportano l'acquisto di licenze basate su nodi multipli a partire da Cloud Volumes ONTAP 9.12.1.</block>
@@ -715,4 +712,8 @@ Coppie HA: 18 in un nodo ^1^</block>
   <block id="e1ec06a3bd4a559443a88f1cb6736c26" category="inline-link-macro">Scopri come eseguire l'upgrade in AWS con i tipi di istanza C4, M4 e R4 EC2</block>
   <block id="f295c0f45a8e22a4e4db9141680cce76" category="paragraph"><block ref="0fa12a627192b6cd097b12cd8088afe0" category="inline-link-macro-rx"></block>.
 <block ref="3f0e03f473a215943c109dc7746cdb60" category="inline-link-macro-rx"></block>.</block>
+  <block id="7b12e48cf0f58903b7c9f1ebc3c96974" category="section-title">9.12.1 P8 (8 dicembre 2023)</block>
+  <block id="fade75ceec599e990625d8fe892dc7d0" category="paragraph">La patch 9.12.1 P8 è ora disponibile per Cloud Volumes ONTAP per tutti i cloud provider. BlueXP richiederà di aggiornare i sistemi esistenti a questa versione di patch.</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link-macro">Visualizza l'elenco dei bug corretti nella patch P8</block>
+  <block id="256a78f661aac1037fd4538bac2c35e2" category="paragraph"><block ref="eeacaebd27be6cafb953a21f643315af" category="inline-link-macro-rx"></block> (Accesso al NetApp Support Site richiesto).</block>
 </blocks>
