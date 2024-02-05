@@ -20,6 +20,14 @@ Ulteriori funzionalità e miglioramenti sono stati introdotti anche nelle ultime
 
 
 
+== 9.12.1 P9:00 (5 febbraio 2024)
+
+La patch 9.12.1 P9 è ora disponibile per Cloud Volumes ONTAP per tutti i cloud provider. BlueXP richiederà di aggiornare i sistemi esistenti a questa versione di patch.
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.12.1P9["Visualizzare l'elenco dei bug corretti nella patch P9"^] (Accesso al NetApp Support Site richiesto).
+
+
+
 == 9.12.1 P8 (8 dicembre 2023)
 
 La patch 9.12.1 P8 è ora disponibile per Cloud Volumes ONTAP per tutti i cloud provider. BlueXP richiederà di aggiornare i sistemi esistenti a questa versione di patch.

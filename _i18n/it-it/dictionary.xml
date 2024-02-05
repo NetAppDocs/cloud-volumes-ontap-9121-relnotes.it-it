@@ -721,4 +721,8 @@ Coppie HA: 18 in un nodo ^1^</block>
   <block id="ae809759e1518d5c4c2019b9c03f15a1" category="list-text">A partire da ONTAP 9.12.1P2, il limite è di 128 TB. In ONTAP 9.11.1 e nelle versioni precedenti, il limite è di 16 TB.</block>
   <block id="363a2a1557561115c9aab27b368391e0" category="list-text">La creazione di volumi FlexVol fino alle dimensioni massime di 300 TiB è supportata mediante System Manager a partire da Cloud Volumes ONTAP 9.12.1 P2.</block>
   <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300 TB</block>
+  <block id="970d5c9706f6ab7714134e23fcf688b5" category="section-title">9.12.1 P9:00 (5 febbraio 2024)</block>
+  <block id="cc166601884aa0c57bb02902cbf3e2ad" category="paragraph">La patch 9.12.1 P9 è ora disponibile per Cloud Volumes ONTAP per tutti i cloud provider. BlueXP richiederà di aggiornare i sistemi esistenti a questa versione di patch.</block>
+  <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link-macro">Visualizzare l'elenco dei bug corretti nella patch P9</block>
+  <block id="d0b2ca8271dd8bcbce366784bf744158" category="paragraph"><block ref="a62fdbf622c208963a49bc988200ee74" category="inline-link-macro-rx"></block> (Accesso al NetApp Support Site richiesto).</block>
 </blocks>
